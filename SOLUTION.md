@@ -1,13 +1,13 @@
 # Create S3 Bucket Lab - Solution
 
-**Student Name:** [Your Name]  
-**Date:** [Date]
+**Student Name:** Anderson   
+**Date:** 22/04/2026
 
 ---
 
 ## Exercise 1: Bucket Creation
 
-**Bucket Name:** [your-name-bootcamp-demo-2024]  
+**Bucket Name:** anderson-fernandes-bootcamp-bucket-2024  
 **Region:** [us-east-1]
 
 ![Bucket Created](screenshots/bucket-created.png)
@@ -17,9 +17,9 @@
 ## Exercise 2: Object Uploads
 
 ### Files Uploaded:
-1. [File 1 name and type]
-2. [File 2 name and type]
-3. [File 3 name and type]
+1. Captura de pantalla 2026-04-22 171.png
+2. Reflexion Anderson Fernandes (1).pdf
+3. readme.txt.
 
 ### Folder Structure:
 ![Folder Structure](screenshots/folder-structure.png)
@@ -38,9 +38,9 @@
 ![Storage Classes](screenshots/storage-classes.png)
 
 **Storage Classes Used:**
-- Standard: [Number] objects
-- Standard-IA: [Number] objects
-- Intelligent-Tiering: [Number] objects
+- Standard: [0] objects
+- Standard-IA: [1] objects
+- Intelligent-Tiering: [0] objects
 
 ---
 
@@ -50,7 +50,7 @@
 ![Versioning Enabled](screenshots/versioning-enabled.png)
 ![Versions List](screenshots/versions.png)
 
-**Number of versions created:** [X]
+**Number of versions created:** [Yes]
 
 ### Encryption:
 ![Encryption Enabled](screenshots/encryption-enabled.png)
@@ -80,7 +80,7 @@
 
 ![Synced Files](screenshots/synced-files.png)
 
-**Files Synced:** [Number]  
+**Files Synced:** [3]  
 **Total Size:** [Size]
 
 ---
@@ -90,9 +90,10 @@
 ![Bucket Metrics](screenshots/bucket-metrics.png)
 
 **Bucket Statistics:**
-- Total objects: [X]
-- Total size: [X GB]
-- Storage class distribution: [Details]
+- Total objects:
+- Total size: 
+- Storage class distribution: 
+NOT SHOWN YET
 
 ---
 
@@ -126,15 +127,15 @@ See `cli-outputs.txt` for all command outputs.
 
 ## Checklist
 
-- [ ] Bucket created
-- [ ] Objects uploaded (console and CLI)
-- [ ] Folders created
-- [ ] Storage classes configured
-- [ ] Versioning enabled and tested
-- [ ] Encryption enabled
-- [ ] Tags added
-- [ ] Sync completed
-- [ ] All screenshots captured
-- [ ] Bucket cleaned up (deleted)
+- [yes] Bucket created
+- [yes] Objects uploaded (console and CLI)
+- [yes] Folders created
+- [yes] Storage classes configured
+- [yes] Versioning enabled and tested
+- [yes] Encryption enabled
+- [yes] Tags added
+- [yes] Sync completed
+- [yes] All screenshots captured
+- [yes] Bucket cleaned up (deleted)
 
-**Completed By:** [Your Name]
+**Completed By:** Anderson Fernandes
