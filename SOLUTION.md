@@ -118,11 +118,9 @@ See `cli-outputs.txt` for all command outputs.
 ## Reflection
 
 **What did you learn about S3?**
-[Your answer]
-
+I learned that S3 is a cloud storage service where you can store files. You can upload, download, and organize files in buckets.
 **When would you use different storage classes?**
-[Your answer]
-
+I use different storage classes depending on how often I need to access the data frequently used files go to Standard less used files go to IA and rarely used files go to Glacier.
 ---
 
 ## Checklist
